@@ -31,6 +31,11 @@ Enabled targeted marketing and retention strategies
 Reduced manual reporting time and improved data accuracy
 
 ![Customer 360 Dashboard](Customer%203601.png)
+![Customer 360 Dashboard](Customer%203602.png)
+![Customer 360 Dashboard](Customer%203603.png)
+
+
+
 
 
 
